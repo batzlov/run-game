@@ -1,0 +1,5 @@
+﻿  app.cpp
+yoshix_debug.lib(yoshix_math.obj) : warning LNK4099: PDB "yoshix.pdb" wurde nicht mit "yoshix_debug.lib(yoshix_math.obj)" oder an "C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\projects\build\win32\run_game\Debug\yoshix.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  example.vcxproj -> C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\projects\\build\win32\run_game\Debug\run_game_debug.exe
+  ..\build\win32\run_game\Debug\run_game_debug.exe
+          1 Datei(en) kopiert.

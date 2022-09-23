@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\src\</FILEPATH>
+      <FILENAME>app.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "CApplication::m_ProjectionMatrix" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>CApplication::{ctor}</FUNCTION>
+    <DECORATED>??0CApplication@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CApplication::m_ProjectionMatrix</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\src\</FILEPATH>
+      <FILENAME>app.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "CApplication::m_ViewMatrix" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>CApplication::{ctor}</FUNCTION>
+    <DECORATED>??0CApplication@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CApplication::m_ViewMatrix</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\src\</FILEPATH>
+      <FILENAME>app.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Die Variable "CApplication::m_pMesh" ist nicht initialisiert. Eine Membervariable muss immer initialisiert werden (type.6).</DESCRIPTION>
+    <FUNCTION>CApplication::{ctor}</FUNCTION>
+    <DECORATED>??0CApplication@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CApplication::m_pMesh</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

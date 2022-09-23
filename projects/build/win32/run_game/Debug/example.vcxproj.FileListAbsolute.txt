@@ -1,0 +1,2 @@
+C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\projects\build\win32\run_game\Debug\run_game_debug.exe
+C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\projects\build\win32\run_game\Debug\run_game_debug.pdb

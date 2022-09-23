@@ -1,0 +1,7 @@
+﻿  app.cpp
+C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\src\app.cpp(101,12): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\src\app.cpp(715,2): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\src\app.cpp(1127,22): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+  run_game.vcxproj -> C:\Users\Robert\Documents\Studium\6. Semester\GDV2\RunGame\projects\\build\win32\run_game\Debug\run_game_debug.exe
+  ..\build\win32\run_game\Debug\run_game_debug.exe
+          1 Datei(en) kopiert.
